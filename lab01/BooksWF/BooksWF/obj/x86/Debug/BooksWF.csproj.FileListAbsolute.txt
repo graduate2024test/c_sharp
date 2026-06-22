@@ -1,0 +1,10 @@
+C:\moscov kondr\Lab1\BooksWF\BooksWF\bin\x86\Debug\BooksWF.exe.config
+C:\moscov kondr\Lab1\BooksWF\BooksWF\bin\x86\Debug\BooksWF.exe
+C:\moscov kondr\Lab1\BooksWF\BooksWF\bin\x86\Debug\BooksWF.pdb
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.csprojAssemblyReference.cache
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.Form1.resources
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.Properties.Resources.resources
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.csproj.GenerateResource.cache
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.csproj.CoreCompileInputs.cache
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.exe
+C:\moscov kondr\Lab1\BooksWF\BooksWF\obj\x86\Debug\BooksWF.pdb

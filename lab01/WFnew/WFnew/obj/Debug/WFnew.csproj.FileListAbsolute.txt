@@ -1,0 +1,10 @@
+C:\moscov kondr\Lab1\WFnew\WFnew\bin\Debug\WFnew.exe.config
+C:\moscov kondr\Lab1\WFnew\WFnew\bin\Debug\WFnew.exe
+C:\moscov kondr\Lab1\WFnew\WFnew\bin\Debug\WFnew.pdb
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.csprojAssemblyReference.cache
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.Form1.resources
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.Properties.Resources.resources
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.csproj.GenerateResource.cache
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.csproj.CoreCompileInputs.cache
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.exe
+C:\moscov kondr\Lab1\WFnew\WFnew\obj\Debug\WFnew.pdb

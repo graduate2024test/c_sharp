@@ -1,0 +1,7 @@
+C:\moscov kondr\Lab1\BooksApp\BooksApp\bin\Debug\BooksApp.exe.config
+C:\moscov kondr\Lab1\BooksApp\BooksApp\bin\Debug\BooksApp.exe
+C:\moscov kondr\Lab1\BooksApp\BooksApp\bin\Debug\BooksApp.pdb
+C:\moscov kondr\Lab1\BooksApp\BooksApp\obj\Debug\BooksApp.csprojAssemblyReference.cache
+C:\moscov kondr\Lab1\BooksApp\BooksApp\obj\Debug\BooksApp.csproj.CoreCompileInputs.cache
+C:\moscov kondr\Lab1\BooksApp\BooksApp\obj\Debug\BooksApp.exe
+C:\moscov kondr\Lab1\BooksApp\BooksApp\obj\Debug\BooksApp.pdb
